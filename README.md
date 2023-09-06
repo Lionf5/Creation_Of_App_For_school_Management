@@ -34,18 +34,22 @@ The project team consists of five students from the Kallam Haranadha Reddy Insti
 To use the application, you will need to create a Salesforce account and login to the application. Once you are logged in, you can start creating and managing student records.
 
 # Steps to develop a school management application in Salesforce:-
-  ## 1.Create a Salesforce account: 
+   1.Create a Salesforce account: 
     You can do this by going to the Salesforce website and clicking on the "Free Trial" button.
-  ## 2.Learn about Salesforce:
-    There are many resources available to help you learn about Salesforce, including the Salesforce website, the Salesforce Trailhead       
-    platform, and the Salesforce documentation.
-  ## 3.Design your application:
+    
+   2.Learn about Salesforce:
+    There are many resources available to help you learn about Salesforce, including the Salesforce website, the Salesforce Trailhead platform, and the Salesforce documentation.
+    
+   3.Design your application:
     This includes deciding what features you want your application to have and how you want the application to be structured.
-  ## 4.Develop your application:
+    
+   4.Develop your application:
     You can use the Salesforce platform to develop your application, or you can use a third-party development tool.
-  ## 5.Test your application: 
+    
+   5.Test your application: 
     This is important to make sure that your application works correctly and meets the needs of your users.
-  ## 6.Deploy your application:
+    
+   6.Deploy your application:
     Once you are satisfied with your application, you can deploy it to production so that users can access it.
 
 
